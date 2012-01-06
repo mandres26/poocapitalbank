@@ -1,7 +1,7 @@
 /*
  * FactoringApp.java
  */
-
+//POO
 package factoring;
 
 import org.jdesktop.application.Application;
